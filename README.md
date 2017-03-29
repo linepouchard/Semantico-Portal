@@ -1,4 +1,4 @@
-# Semantic-Portal
+# ESIP Semantic-Portal
 The Semantic Portal is an ontology repository for the Earth Sciences based upon technology from the NCBO Bioportal.  The ESIP Semantic Portal located <a href="http://semanticportal.esipfed.org">here</A>.
 
 Here are some tasks that we can perform in the Semantic Portal:
